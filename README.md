@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tong Nie
-- 👀 I’m interested in Data Analytics and Business Intelligence. 
-- 🌱 I’m currently learning Pyton and Power BI. 
-- 💞️ I’m try to find an internship in the nodic countries.
+- 👀 I’m a data engineer and a BI analyst. 
 - 📫 Reach me here: ethan.nie2020@gmail.com
 <!---
 Einsuomi/Einsuomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
